@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Portfolio Website<br>Open source contribution <br>Java.<br>Python<br>
+I'm currently working on My Portfolio Website.<br>I'm looking for help with Open source contribution.<br>I'm currently learning Java.<br>Ask me about Python.<br>
 
 
 ## 🌐 Socials:
