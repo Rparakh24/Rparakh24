@@ -1,22 +1,55 @@
-# 💫 About Me:
-<br>I am a software developer.<br/>300+ Leetcode Question.<br>MERN Developer.<br>
+# Hi, I'm Ronit🧑‍💻
+
+a full-stack engineer(prefers backend) passionate about building scalable, user-focused products.
+i've completed 300+ questions on Leetcode(work in progess)
+
+engineering [@headout](https://github.com/headout)
+
+prev [@tacheon/smacient](https://github.com/smacient)
+
+### My Tech Stack  
+
+- Programming Languages: Java, JavaScript, TypeScript and GoLang (basic)  
+- Frontend: HTML, CSS, React.js, Next.js, TailwindCSS  
+- Backend: Node.js, Express, Hono, MongoDB, PostgreSQL, Prisma  
+- Tools: Git, Postman, Vercel  
+- Cloud: AWS (EC2,S3), GCP(Cloud Run, API's, Clients)  
+- AI: RAG, LangChain, LlamaIndex, LanceDB, OpenAI, Model Context Protocol (MCP)
+
+### Recent Work
+
+- [vercel](https://github.com/Rparakh24/vercel)
+A lightweight clone of Vercel built to deploy Vite-based projects easily.  
+Inspired by Harkirat Singh's video walkthrough.
+
+- [gate-pass](https://github.com/Rparakh24/gate-pass)
+A multi-layered authentication system designed for college leave management workflows.  
+Handles role-based access and streamlined approvals.
+
+- [connectMCP](https://github.com/Rparakh24/connect-mcp)
+Query your LinkedIn connections using natural language.  
+Example: _"Find my connections working at Headout and send them a custom message."_
+
+- [remo](https://github.com/Rparakh24/remo)
+A tool that gives AI (LLMs) context about your GitHub repos to generate detailed, high-quality READMEs.  
+Currently iterating on it to make the outputs clearer and more useful for non-tech folks.
+
+### Builds from work
+
+- **Ga4+GSC Remote MCP Server**: Engineered a remote mcp server with OAuth2.0 authentication and integrated razorpay for payments. Helps in querying ga4 and gsc in natural language using claude.ai. (usecase: make a visual representation of july 2024 vs july 2025 reports)
+- **Meta Ads MCP Server**: Built using meta ads library and apify scrapper, scrapes the data of ads. Helps in competitor analysis and ideation for new content using claude. (usecase: get me the deep analysis of headout meta ads)
+- **Shopiy MCP Server**: Developed a mcp server to present shopify dashboard data to end users just through their natual language queries. (usecase: get me today's sales)
+- **Retrieval-Augmented Generation**: Scrapes the data using firecrawler and creates a user friendly interface to chat using the context of provided data only.
+
+### Manifested Project(want to work on these projects)
+- Second Brain: A tool that stores all my saved data from all my social and work platforms creating a comprehensive knowledge base that can later help me get any info just with a click
+- ProductX: A tool dedicated to product managers, a one stop solution to all thier requirements - may it be documenting, prd's, flows or analysis(mix panel integration), or making mockups and also a platform to collaborate and share with fellow PM's
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/ronit_parakh](https://www.instagram.com/ronit_parakh/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-parakh-45a6361b2/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21331820) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Rparakh24) 
+### Profiles
+[LinkedIn](https://www.linkedin.com/in/ronit-parakh/)&nbsp;&nbsp;&nbsp;[LeetCode](https://leetcode.com/u/Ronit_Parakh/)
 
+<br>
+<br>
+<i style="color:darkslategray;">Outside tech, you'll find me behind the lens — photography fuels my creativity.</i>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rparakh24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rparakh24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rparakh24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rparakh24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rparakh24&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
