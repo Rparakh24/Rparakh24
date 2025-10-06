@@ -14,7 +14,7 @@ prev [@tacheon/smacient](https://github.com/smacient)
 - Backend: Node.js, Express, Hono, MongoDB, PostgreSQL, Prisma  
 - Tools: Git, Postman, Vercel  
 - Cloud: AWS (EC2,S3), GCP(Cloud Run, API's, Clients)  
-- AI: RAG, LangChain, LlamaIndex, LanceDB, OpenAI, Model Context Protocol (MCP)
+- AI: RAG, LangChain, LanceDB, OpenAI, Model Context Protocol (MCP)
 
 ### Recent Work
 
@@ -38,7 +38,7 @@ Currently iterating on it to make the outputs clearer and more useful for non-te
 
 - **Ga4+GSC Remote MCP Server**:<br> Engineered a remote mcp server with OAuth2.0 authentication and integrated razorpay for payments. Helps in querying ga4 and gsc in natural language using claude.ai. (usecase: make a visual representation of july 2024 vs july 2025 reports)
 - **Meta Ads MCP Server**:<br> Built using meta ads library and apify scrapper, scrapes the data of ads. Helps in competitor analysis and ideation for new content using claude. (usecase: get me the deep analysis of headout meta ads)
-- **Shopiy MCP Server**:<br> Developed a mcp server to present shopify dashboard data to end users just through their natual language queries. (usecase: get me today's sales)
+- **Shopify MCP Server**:<br> Developed a mcp server to present shopify dashboard data to end users just through their natual language queries. (usecase: get me today's sales)
 - **Retrieval-Augmented Generation**:<br> Scrapes the data using firecrawler and creates a user friendly interface to chat using the context of provided data only.
 
 ### Manifested Project(want to work on these projects)
